@@ -1,6 +1,6 @@
 {
   "name": "tcc-ng-owl-carousel",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Use OwlCarousel2 with Angular4~ (https://owlcarousel2.github.io/OwlCarousel2/)",
   "main": "dist/publish.js",
   "types": "dist/publish.d.ts",
